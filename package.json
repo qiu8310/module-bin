@@ -1,0 +1,27 @@
+{
+  "name": "module-bin",
+  "description": "Resolve required module's bin file.",
+  "version": "0.0.1",
+  "homepage": "https://github.com/qiu8310/module-bin",
+  "bugs": "https://github.com/qiu8310/module-bin/issues",
+  "license": "MIT",
+  "main": "module-bin.js",
+  "author": {
+    "name": "Zhonglei Qiu",
+    "email": "qiuzhongleiabc@126.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qiu8310/module-bin"
+  },
+  "keywords":[
+    "find",
+    "module-bin",
+    "resolve",
+    "bin",
+    "absolute",
+    "required"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
